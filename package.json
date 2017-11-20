@@ -1,0 +1,22 @@
+{
+    "name": "3.nodeexpressfromscratch",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "Alin Georgian Antoci",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "connect-flash": "^0.1.1",
+        "express": "^4.16.2",
+        "express-messages": "^1.0.1",
+        "express-session": "^1.15.6",
+        "express-validator": "^4.3.0",
+        "mongoose": "^4.13.4",
+        "nodemon": "^1.12.1",
+        "pug": "^2.0.0-rc.4"
+    }
+}
